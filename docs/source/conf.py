@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DiMA User Manual'
-copyright = '2021, Authors'
+project = 'CROSTA User Manual'
+copyright = '2022, Authors'
 author = 'Authors'
 
 # The full version, including alpha/beta/rc tags

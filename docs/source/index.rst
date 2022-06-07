@@ -13,5 +13,32 @@ Welcome to CROSTA User Manual
    :caption: Contents:
     about.md
 
+1. About
+==================
 
+.. about:
+.. include:: about.md
+   :parser: myst_parser.sphinx_
+
+2. Input file and parameters
+==================
+
+.. parameters:
+.. include:: parameters.md
+   :parser: myst_parser.sphinx_
    
+3. How to interpret the results
+==================
+
+.. results:
+.. include:: results.md
+   :parser: myst_parser.sphinx_   
+   
+4. FAQs and Support
+==================
+
+.. faqs:
+.. include:: faqs.md
+   :parser: myst_parser.sphinx_  
+   
+  
